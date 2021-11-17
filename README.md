@@ -17,7 +17,7 @@ import { LentainformWidget } from 'react-lentainform-widget'
 class Component extends React.Component {
 
   render() {
-    return <LentainformWidget id='M284163ScriptRootC983763' src='https://jsc.lentainform.com/s/i/site-lentainform-1.0.com.1189521.js'/>
+    return <LentainformWidget id='M488966ScriptRootC1229358' src='https://jsc.lentainform.com/e/x/example.lentainform.com.1229358.js'/>
   }
 }
 ```
